@@ -1,5 +1,5 @@
 ---
-title: gSchool: The Very Beginning (Weeks 0-2)
+title: gSchool- The Very Beginning (Weeks 0-2)
 date: 2014-03-18 21:00 UTC
 tags: Ruby Newbie
 ---
