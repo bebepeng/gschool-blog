@@ -1,7 +1,7 @@
 ---
 title: gSchool - A Glimpse into Real World Application (weeks 3-4)
 date: 2014-03-30 14:58 UTC
-tags:
+tags:Ruby Newbie, gschool
 ---
 
 Hello~ it’s blog time again! <br>

@@ -1,7 +1,7 @@
 ---
 title: gSchool- The Very Beginning (Weeks 0-2)
 date: 2014-03-18 21:00 UTC
-tags: Ruby Newbie
+tags: Ruby Newbie, gschool
 ---
 
 Hello. (Forgive me for my awkwardness, but I haven't blog posted since my middle school Xanga days. Haha)
