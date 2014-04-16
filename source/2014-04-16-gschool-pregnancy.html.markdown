@@ -19,5 +19,7 @@ We've informed all of our loved ones of our new status, and we've even chosen gu
 We cram as much knowledge and training in these weeks to prepare us to become good developers: taking classes, attending lectures, reading books, and practicing.
 We have periods of emotional roller coasters as to whether or not we think we can get out in one piece or whether or not we made the right decision to start.
 We even dropped or are preparing to drop our previous lifestyles in order to make room for our anticipated new one.
-<br> I'm almost positive that my web development skills will be ultra beautiful; I just hope finding a job isn't as painful as delivery.
+<br>
+
+I'm almost positive that my web development skills will be ultra beautiful; I just hope finding a job isn't as painful as delivery.
 
